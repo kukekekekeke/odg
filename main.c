@@ -6,7 +6,7 @@
 #include "webmake.h"
 #include "MTrand.h"
 #include "judge.h"
-
+//gittest
 int main(int argc, char *argv[]){
   int i;//カウンタ
   int num;//乱数
